@@ -2,7 +2,7 @@
 
 「[TypeScript와 React/Next.js로 만드는 실전 웹 애플리케이션](https://gihyo.jp/book/2022/978-4-297-12916-3)」의 샘플 애플리케이션
 
-![샘플 애플리케이션](https://user-images.githubusercontent.com/2387508/178550902-a7c1e47b-a322-413c-b9ad-2ffff79e041d.png)
+![샘플 애플리케이션](images/coverpage.png)
 
 ## 1판에서의 업데이트
 
