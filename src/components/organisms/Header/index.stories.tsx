@@ -15,8 +15,8 @@ export const Login = () => {
   const authUser = {
     id: 1,
     username: 'dummy',
-    displayName: 'Taketo Yoshida',
-    email: 'test@example.com',
+    displayName: 'Hana Kim',
+    email: 'hana.kim@example.com',
     profileImageUrl: '/images/sample/1.jpg',
     description: '',
   }
