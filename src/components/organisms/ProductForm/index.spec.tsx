@@ -60,8 +60,8 @@ describe('ProductForm', () => {
       ) as HTMLInputElement
       fireEvent.change(inputPriceNode, { target: { value: '100' } })
 
-      // 출품 버튼을 클릭한다
-      fireEvent.click(screen.getByText('출품'))
+      // 등록 버튼을 클릭한다
+      fireEvent.click(screen.getByText('등록'))
     })
 
     // handleProductSave가 호출되어 있는 것을 확인
@@ -77,8 +77,8 @@ describe('ProductForm', () => {
       ) as HTMLInputElement
       fireEvent.change(inputUsernameNode, { target: { value: '상품' } })
 
-      // 출품 버튼을 클릭
-      fireEvent.click(screen.getByText('출품'))
+      // 등록 버튼을 클릭
+      fireEvent.click(screen.getByText('등록'))
     })
 
     // handleProductSave가 호출되지 않은 것을 확인

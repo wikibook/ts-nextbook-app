@@ -146,7 +146,7 @@ const Header = () => {
           </NavLink>
           <NavLink>
             <Link href="/sell" passHref>
-              <Button as="a">출품</Button>
+              <Button as="a">등록</Button>
             </Link>
           </NavLink>
         </Nav>
