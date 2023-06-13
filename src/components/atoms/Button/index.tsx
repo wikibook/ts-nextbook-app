@@ -174,7 +174,7 @@ const Button = styled.button<ButtonProps>`
   }
   cursor: pointer;
   outline: 0;
-  text-decoration: 'none';
+  text-decoration: none;
   opacity: ${({ disabled }) => (disabled ? '0.5' : '1')};
   border-radius: 4px;
   border: none;
